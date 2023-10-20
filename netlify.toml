@@ -1,5 +1,4 @@
-[build]
-publish="public"
+
 [[redirects]]
      from = "/currency/*"
      to = "https://api.mytokenapi.com/currency/:sqlat"
