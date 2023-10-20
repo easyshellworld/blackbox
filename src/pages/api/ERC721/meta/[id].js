@@ -12,9 +12,9 @@ const metadata = {
         value: "Sad",
       },
     ],
-    description: "A sad circle.",
-    image: "https://i.imgur.com/Qkw9N0A.jpeg",
-    name: "Sad Circle",
+    description: "a fat cat",
+    image: "https://blackboxkey.netlify.app/1fatcat.jpg",
+    name: "Fat Cat",
   },
   2: {
     attributes: [
@@ -27,9 +27,9 @@ const metadata = {
         value: "Angry",
       },
     ],
-    description: "An angry rectangle.",
-    image: "https://i.imgur.com/SMneO6k.jpeg",
-    name: "Angry Rectangle",
+    description: "a fat cat2",
+    image: "https://blackboxkey.netlify.app/2fatcat.jpg",
+    name: "Fat Fat cat",
   },
   3: {
     attributes: [
